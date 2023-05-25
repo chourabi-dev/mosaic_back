@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ImageProcessorWS:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ImageProcessorWS</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="CollageService.war">
+      <element id="artifact" artifact-name="ImageProcessorWS:war exploded" />
+    </root>
+  </artifact>
+</component>
