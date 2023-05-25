@@ -14,7 +14,7 @@ public class AppConfig {
     /**
      * Actual Server URI, used as base for images link. the part https://mosaika.tn is the variable one, the rest must remain static.
      */
-    public static String SERVERURI = "http://37.59.204.209:8080/mosaics-images";
+    public static String SERVERURI = "http://37.59.204.209/mosaics-images";
     
     
     
