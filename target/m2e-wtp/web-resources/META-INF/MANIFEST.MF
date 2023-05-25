@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Implementation-Title: Image Processor Web Service
+Implementation-Version: 1.0
+Main-Class: Main.Starter
+Created-By: Maven Integration for Eclipse
+
